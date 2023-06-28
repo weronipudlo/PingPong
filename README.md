@@ -1,3 +1,3 @@
 # PingPong
 PingPong game
-<img src="ping_pong">
+<img src="ping_pong.PNG">
